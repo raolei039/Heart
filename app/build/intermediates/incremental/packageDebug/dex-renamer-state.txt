@@ -1,0 +1,7 @@
+#Sun Oct 01 17:06:01 CST 2017
+base.0=E\:\\Heart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9e9b66aeed2cd3c1482ed36f81fcc53b36452ad3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Heart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fdd16d5e403f3c22a26f9da051a65fad7ebd8175\\classes.dex
+base.1=E\:\\Heart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fdd16d5e403f3c22a26f9da051a65fad7ebd8175
+file.0=E\:\\Heart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9e9b66aeed2cd3c1482ed36f81fcc53b36452ad3\\classes.dex

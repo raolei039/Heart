@@ -1,0 +1,13 @@
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$8$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$3$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$4$1$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$6$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$2$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$4$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$9$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$10$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$7$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$5$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/cloudtoo/blelib/Ct_BleTestPresent$1$override.class
+CHANGED,/Users/chiulandice/Documents/Workspace/android/sdktest/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

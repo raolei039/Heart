@@ -1,0 +1,4 @@
+#Fri Sep 29 19:56:23 CST 2017
+base.0=E\:\\Heart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=E\:\\Heart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex
